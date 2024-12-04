@@ -16,7 +16,7 @@ This WebSocket server allows users to connect and send text messages. When a cli
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/tu_usuario/mi-websocket-app.git
+   git clone git@github.com:AxierPer/chat-app.git
    ```
 2. Enter the project directory:
 
